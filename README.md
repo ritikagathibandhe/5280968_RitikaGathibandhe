@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/ritikagathibandhe/5280968/RitikaGathibandhe/blob/main/SDLC/certificate/GreatLearningQuiz.png" alt="image">
+![Great Learning Quiz Certificate](https://github.com/ritikagathibandhe/5280968_RitikaGathibandhe/raw/main/SDLC/certificate/GreatLearningQuiz.png)
 
 
 
