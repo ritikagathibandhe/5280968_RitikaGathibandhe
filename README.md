@@ -11,3 +11,7 @@ Git
 C beginner
 
 ![SoloLearn Certificate](https://github.com/ritikagathibandhe/5280968_RitikaGathibandhe/raw/main/C/certificate/Solo_Learn.jpg)
+
+C Intermediate
+
+![SoloLearn Certificate](https://github.com/ritikagathibandhe/5280968_RitikaGathibandhe/raw/main/C/certificate/sololearnIntermediate.jpg)
